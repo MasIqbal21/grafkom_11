@@ -1,0 +1,12 @@
+com\grafkom\visualrealism\Window.class
+com\grafkom\visualrealism\ShadowMapFBO.class
+com\grafkom\visualrealism\Texture2D.class
+com\grafkom\visualrealism\Texture2D$FilterMode.class
+com\grafkom\visualrealism\Mesh.class
+com\grafkom\visualrealism\Camera.class
+com\grafkom\visualrealism\HSRManager.class
+com\grafkom\visualrealism\Main.class
+com\grafkom\visualrealism\Shader.class
+com\grafkom\visualrealism\MeshFactory$RawGeometry.class
+com\grafkom\visualrealism\VisualRealismSuite.class
+com\grafkom\visualrealism\MeshFactory.class
